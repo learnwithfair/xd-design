@@ -14,3 +14,5 @@ Thanks for downloading this theme!
 | ![Nature-Lover](https://github.com/learnwithfair/xd-design/blob/main/images/Blog-Nature-Lover.png) |
 |                                                Blog                                                |
 |           ![Blog](https://github.com/learnwithfair/xd-design/blob/main/images/Blog.png)            |
+|                                             Messenger                                              |
+|             https://github.com/learnwithfair/xd-design/blob/main/images/messenger.png              |
