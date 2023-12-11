@@ -7,8 +7,8 @@ Thanks for downloading this theme!
 ## Project Screenshot
 
 |                                                                                                    |
-| :------------------------------------------------------------------------------------------------: | --- |
-|                                              Finicix                                               |     |
+| :------------------------------------------------------------------------------------------------: |
+|                                              Finicix                                               |
 |    ![Finicix](https://github.com/learnwithfair/xd-design/blob/main/images/Business-Finicix.png)    |
 |                                            Nature-Lover                                            |
 | ![Nature-Lover](https://github.com/learnwithfair/xd-design/blob/main/images/Blog-Nature-Lover.png) |
